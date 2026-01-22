@@ -1,6 +1,5 @@
 # Codedex
 
-=======
 <h1 align="center"><b>🟡 CODÉDEX 🟡 </b></h1>
 
 [```Codédex```](https://www.codedex.io/) is an online learning platform with various courses on programming languages and skills with a pixel art gaming style.
