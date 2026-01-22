@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Codedex
 
 =======
@@ -22,4 +21,4 @@ This repositorie is a collection of exercises and projects i've done in this pla
 - [ ] React
 - [ ] SQL
 - [ ] Node.js
->>>>>>> 449bf867ade49310967ea99cbad12d3a582f0013
+
