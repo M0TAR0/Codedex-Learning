@@ -6,7 +6,7 @@
 
 [```Codédex```](https://www.codedex.io/) is an online learning platform that teaches programming through a retro pixel-art gaming style.
 
-This repositorie is a collection of my adventure on codedex, where exercises and projects i've done in this platform coexist on dventures like:
+This repositorie is a collection of my adventure on codedex, where exercises and projects i've done in this platform coexist on Adventures like:
 
 | 🐍 Python | 💻 HTML | 🌊 CSS | 🎲 Javascript | 🐱 Git & GitHub |
 
