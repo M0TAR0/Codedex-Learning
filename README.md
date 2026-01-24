@@ -1,14 +1,18 @@
 # Codedex
 
-<h1 align="center"><b>🟡 CODÉDEX 🟡 </b></h1>
+<div align="center">
+  <img src="./Resources/Codedex.png" alt="Logo" width="500">
+</div>
 
-[```Codédex```](https://www.codedex.io/) is an online learning platform with various courses on programming languages and skills with a pixel art gaming style.
+[```Codédex```](https://www.codedex.io/) is an online learning platform that teaches programming through a retro pixel-art gaming style.
 
-This repositorie is a collection of exercises and projects i've done in this platform during my learning process of various programming languages and skills, such as:
+This repositorie is a collection of my adventure on codedex, where exercises and projects i've done in this platform coexist on dventures like:
 
 | 🐍 Python | 💻 HTML | 🌊 CSS | 🎲 Javascript | 🐱 Git & GitHub |
 
-<h2>COURSES: </h3>
+For project revisions, please head to Course Projects!
+
+<h2>COMPLETED COURSES: </h3>
 
 - [ ] Python 🐍📊
 - [X] Git & Github 🔀🐙
