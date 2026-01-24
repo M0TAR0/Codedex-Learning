@@ -14,7 +14,7 @@ For project revisions, please head to Course Projects!
 
 <h2>COMPLETED COURSES: </h3>
 
-- [ ] Python 🐍📊
+- [X] Python 🐍📊
 - [X] Git & Github 🔀🐙
 - [X] Terminal ⬛
 - [ ] HTML
