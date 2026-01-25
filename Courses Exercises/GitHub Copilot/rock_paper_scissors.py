@@ -1,10 +1,10 @@
 """
-Make a Rock Paper Sissors game where the uses plays against a computer that randomly selects it's move giving it's input.
+Make a Rock Paper Sissors game where the user plays against a computer that randomly selects it's move giving it's input.
 The game should tell who won each round and keep track of the score
 The game has to repeat until the user types "quit"
 """
 
-import random
+import random 
 def get_computer_choice():
     return random.choice(['rock', 'paper', 'scissors'])
 
@@ -23,7 +23,11 @@ def main():
     computer_score = 0
     
     while True:
-        user_choice = input("Enter rock, paper, scissors or quit to exit: ").lower()
+        user_input = input("Enter rock, paper, scissors (or r, p, s) or quit to exit: ").lower()
+        
+        # Map shortcuts to full names
+        choice_map = {'r': 'rock', 'p': 'paper', 's': 'scissors'}
+        user_choice = choice_map.get(user_input, user_input)
         if user_choice == 'quit':
             break
         if user_choice not in ['rock', 'paper', 'scissors']:
