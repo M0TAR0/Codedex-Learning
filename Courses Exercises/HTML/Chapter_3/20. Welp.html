@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Yelp!</title>
+    </head>
+    <body>
+        <h1>YELP!</h1>
+        <p>Welcome to Yelp, please be honest.</p>
+        <br>
+
+        <form>
+            <label for="Reviewer_name">Name: </label>
+            <input type="text" id="Reviewer_name" required>
+
+            <br><br>
+
+            <label for="Item_name">Item name: </label>
+            <br>
+            <input type="text" id="Item_name" required>
+
+            <br><br>
+
+            <label name="Trying_again">Would you try again?</label>
+            <br>
+            <label for="Yes">Yes</label>
+            <input type="radio" name="Trying_again" id="Yes">
+            <br>
+            <label for="No">No</label>
+            <input type="radio" name="Trying_again" id="No">
+            <br>
+            <label for="Maybe">Maybe</label>
+            <input type="radio" name="Trying_again" id="Maybe">
+
+            <br><br>
+
+            <label for="Rating">Rate it:</label>
+            <br>
+            <input type="number" placeholder="From 1 to 5" min="1" max="5" required>
+
+            <br><br>
+
+            <label name="Commenting_area" for="Comments">Comments:</label>
+            <br>
+            <textarea name="Commenting_area" id="Comments" placeholder="Write something..."></textarea>
+        
+            <br><br>   
+
+            <input type="submit" value="Submit Review">
+        </form>
+
+        <p>Thank you!</p>
+    </body>
+</html>
