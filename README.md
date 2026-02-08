@@ -17,7 +17,7 @@ For project revisions, please head to Course Projects!
 - [X] Python 🐍📊
 - [X] Git & Github 🔀🐙
 - [X] Terminal ⬛
-- [ ] HTML
+- [X] HTML
 - [ ] CSS 🎨✨
 - [ ] Javascript
 - [ ] Pandas
