@@ -1,0 +1,13 @@
+div#outer {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+}
+
+div#inner {
+    width: 400px;
+    height: 400px;
+    background-image: url(https://pixabay.com/es/photos/zool%C3%B3gico-guadalupe-racoon-tropical-3857736/);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
