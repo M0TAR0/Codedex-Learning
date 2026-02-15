@@ -28,7 +28,7 @@ keep_writing = True
 while keep_writing:
     answer = input("Write a paragraph? \"Y\" for yes, anything else for No: ")
     if answer == "Y":
-        paragraph_topic = input("What would you like to write about?")
+        paragraph_topic = input("What would you like to write about? ")
         print("\n" + generate_blog(paragraph_topic) + "\n")
     else:
         keep_writing = False
